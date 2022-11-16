@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Hello, I am Micah Dew</h1>
           </div>
           <p className='description'>
             My name is Micah Dew. I am a freshman at the University
