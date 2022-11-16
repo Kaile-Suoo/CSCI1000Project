@@ -25,7 +25,7 @@ export default function Home() {
             <p>Kaile's about me page</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='/jvarghese'
             className='card'>
             <h3>JEREMY VARGHESE&rarr;</h3>
             <p>

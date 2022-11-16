@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Hello, I'm Jeremy Varghese</h1>
           </div>
           <img
             className='pic'
@@ -15,11 +15,10 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+          Hi, my name is Jeremy and I am a computer science student at the Universit of Colorado Boulder. 
+          The computer science field which intersts me the most is AI and machine learning. I am planning on minnoring in business
+          and maybe double majoring in business and computer science. I have a couple of hobbies that I love doing in my free time 
+          which include tennis, spikeball, and video games.
           </p>
 
           <a className='button' href='/'>
