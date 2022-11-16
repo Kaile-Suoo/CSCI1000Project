@@ -20,6 +20,10 @@ export default function Home() {
         <code></code>
 
         <div className='grid'>
+        <a href='/AveryWagner' className='card'>
+            <h3>Avery's Page &rarr;</h3>
+            <p>Click to view Avery's About Me page</p>
+          </a>
           <a href='/ksuoo' className='card'>
             <h3>Kaile's Page &rarr;</h3>
             <p>Kaile's about me page</p>
